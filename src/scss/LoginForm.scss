@@ -1,0 +1,28 @@
+.login-container {
+    display: flex;
+}
+
+.login-banner {
+    width: 24vw;
+    max-width: 344px;
+    height: 98vh;
+}
+
+.login-page {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 20vh;
+    flex-grow: 1;
+}
+
+.login-title {
+    top: 25%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #000000;
+}
